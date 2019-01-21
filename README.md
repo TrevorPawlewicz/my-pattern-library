@@ -2,9 +2,9 @@
 
 This document will describe the structure of each pattern and its behavior under various screen sizes.
 
-### CLI for SASS WATCH
-sass --watch sass:temp --style expanded --sourcemap=none
-(directory to watch:output directory)
+##### CLI for SASS WATCH   
+`sass --watch sass:temp --style expanded --sourcemap=none
+(directory to watch:output directory)`
 ---
 
 ## The Grid System
